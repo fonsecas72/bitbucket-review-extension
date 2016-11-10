@@ -5,3 +5,5 @@ This extension will increase the experience of the review with bitbucket by focu
 [Install Chrome](https://github.com/fonsecas72/bitbucket-review-extension/releases/download/0.0.1/bitbucket-review-extension.crx)
 
 [Install Firefox](https://github.com/fonsecas72/bitbucket-review-extension/releases/download/0.0.1/bitbucket-review-extension.xpi)
+
+![Alt text](1.png?raw=true "PrintScreen")
