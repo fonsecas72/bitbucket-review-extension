@@ -6,4 +6,4 @@ This extension will increase the experience of the review with bitbucket by focu
 
 [Install Firefox](https://github.com/fonsecas72/bitbucket-review-extension/releases/download/0.0.1/bitbucket-review-extension.xpi)
 
-![Alt text](1.png?raw=true "PrintScreen")
+![Alt text](gif.gif?raw=true "PrintScreen")
